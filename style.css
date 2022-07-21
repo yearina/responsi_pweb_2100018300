@@ -1,0 +1,159 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: perpetua;
+}
+.wrapper{
+	background: url('delivery.png');
+	background-position:  center;
+	background-repeat: no-repeat;
+}
+.navbar{
+	padding: 10px;
+	padding-left: 15px;
+	background: #A60D0D;
+	color: white;
+	border-bottom: solid #F2921D;
+}
+.logo{
+	font-size: 30px;
+	font-weight: bold;
+	text-shadow: 5px 3px 3px #F2921D;
+}
+.menu{
+	width: 20%;
+	float: left;
+	margin: 20px;
+	padding: 10px;
+	background: white;
+	box-shadow: 5px 5px 8px 5px #8888;
+	padding-bottom: 20px;
+}
+.tengah{
+	height: 80vh;
+	text-align: center;
+	font-size: 20px;
+	color: black;
+	background-color: rgba(255, 255, 255, 0.7);
+}
+.tengah h2{
+	border-bottom: none;
+	color: black;
+	transform: translateY(150px);
+}
+.tengah p{
+	transform: translateY(160px);
+}
+.teks{
+	width: 40%;
+	margin: auto;
+}
+.content{
+	width: 40%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 15px;
+	box-shadow: 5px 5px 8px 5px #8888;
+	background: white;
+}
+.formm{
+	font-size: 18px;
+	padding-top: 20px;
+}
+.kosong{
+	height: 30vh;
+}
+.footer{
+	border-top: solid #F2921D;
+	background: #A60D0D;
+	color: white;
+	font-size: 18px;
+	padding: 15px;
+}
+.fkiri{
+	width: 50%;
+	float: left;
+}
+.fkanan{
+	text-align: right;
+}
+.footer img{
+	width: 30px;
+	height: 30px;
+	margin: 15px 5px;
+	text-align: right;
+	cursor: pointer;
+}
+.jarak{
+	padding-right: 32px;
+}
+#data1, #data2{
+	border-left: solid #F2921D;
+	background: whitesmoke;
+}
+#jarak{
+	width: 20%;
+	text-align: center;
+}
+#jarak2{
+	width: 40%;
+}
+#kirim, #batal, #hitung{
+	background: #D90B0B;
+	border: none;
+	cursor: pointer;
+	padding: 5px 15px;
+	margin: 0 5px;
+	color: white;
+	border-radius: 15px;
+}
+#kirim:hover, #batal:hover{
+	background: #A60D0D;
+}
+table tr td{
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+h1{
+	text-shadow: 5px 3px 3px #F2921D;
+}
+h2{
+	border-bottom: solid #F2921D;
+	color: #A60D0D;
+}
+h4{
+	
+}
+input{
+	font-size: 18px;
+}
+button {
+  padding: 5px 15px;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  background-color: #D90B0B;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px #999;
+  font-size: 18px;
+  width: 50%;
+}
+button:hover{
+	background-color: #A60D0D
+}
+
+button:active {
+  background-color: #A60D0D;
+  box-shadow: 0 2px #666;
+  transform: translateY(3px);
+}
+button:after{
+	background-color: black;
+}
+textarea{
+	font-size: 18px;
+}

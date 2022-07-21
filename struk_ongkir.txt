@@ -1,0 +1,2 @@
+Asal|Tujuan|Jarak(km)|Ongkir|
+Bantul|Sleman|10|50000|

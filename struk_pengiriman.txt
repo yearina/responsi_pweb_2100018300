@@ -1,0 +1,10 @@
+Data Pengirim
+Nama	|No. Telp	|Alamat	|
+aaaaaaaaa|6666666666||
+
+Data Penerima
+Nama	|No. Telp	|Alamat	|
+bbbbbbbbb|8888888888||
+
+Jarak	|Total Ongkir|
+5|25000|
